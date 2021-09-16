@@ -1,8 +1,11 @@
 # SHAPEAI BOOTCAMPS
-Hi, I made these projects during the 7-Day Free Bootcamps I attended, conducted by <b> SHAPEAI </b>. It was an amazing experience learning with SHAPEAI.
+Hi, I made these projects during the 7-Day Free Bootcamps I attended, conducted by <b> SHAPEAI </b>. 
+<br>It was an amazing experience learning with SHAPEAI.
+<br>
 <br>I got to have hands on experience on:
 <li>Python and Machine Learning
 <li>Python and Computer Vision
+<br>
 <br>In these bootcamps, everything was explained from the very basics so that anyone with zero experience on programming can learn.
 <br>To register for next free bootcamps, visit:
 <a href="https://www.shapeai.tech"> www.shapeai.tech</a>
